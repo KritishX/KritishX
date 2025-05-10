@@ -7,7 +7,7 @@ I'm a passionate programmer with a strong interest in web development, machine l
 - **Web Development:** HTML, CSS, JavaScript, ASP.NET  
 - **Machine Learning & AI:** Python, Flask, Deep Learning  
 - **Hardware & Simulation:** Logic VHDL, Proteus, Xilinx, MATLAB  
-- **Programming Languages:** Python, Go (Golang)  
+- **Programming Languages:** Python,C,C++  
 
 ## 🌱 Currently Learning  
 - Deep learning with TensorFlow/PyTorch  
