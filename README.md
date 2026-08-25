@@ -1,19 +1,33 @@
-# 👋 Hi, I'm KritishX  
+# Hi, I'm Kritish Dhital 👋
 
-## 🚀 About Me  
-I'm a passionate programmer with a strong interest in web development, machine learning, and hardware simulation. I enjoy solving complex problems and constantly exploring new technologies.  
+I'm a software engineer from Nepal building practical AI-powered products and reliable web systems. I enjoy taking ideas beyond the prototype stage—connecting data, APIs, models, and user-facing applications into tools people can depend on.
 
-## 🔥 Skills  
-- **Web Development:** HTML, CSS, JavaScript, ASP.NET  
-- **Machine Learning & AI:** Python, Flask, Deep Learning  
-- **Hardware & Simulation:** Logic VHDL, Proteus, Xilinx, MATLAB  
-- **Programming Languages:** Python,C,C++  
+## 🛠️ Core Tech Stack
 
-## 🌱 Currently Learning  
-- Deep learning with TensorFlow/PyTorch  
-- Backend development with Golang  
+**Frontend**  
+TypeScript · React · Next.js · Tailwind CSS
 
-## 📫 Connect with Me  
-- GitHub: [@KritishX](https://github.com/KritishX)  
+**Backend & APIs**  
+Python · FastAPI · Node.js · REST APIs · WebSockets
 
-🚀 Open to collaborations and new projects! Feel free to explore my repositories.
+**Databases & Background Jobs**  
+PostgreSQL · Prisma · Redis · Celery
+
+**AI Engineering**  
+PyTorch · Transformers · LangChain · LangGraph · RAG · Vector Search · LLM APIs
+
+**Infrastructure & Delivery**  
+Docker · Git · GitHub · Vercel · CI/CD · Monitoring
+
+## 🌱 What I’m Focused On
+
+- Building reliable full-stack products with TypeScript and Python
+- Designing APIs, data models, and scalable backend workflows
+- Applying LLMs, RAG, and agentic systems to real business problems
+- Improving performance, observability, and deployment reliability
+
+## Connect
+
+- GitHub: [@KritishX](https://github.com/KritishX)
+
+Feel free to explore my repositories or reach out about interesting software and AI projects.
