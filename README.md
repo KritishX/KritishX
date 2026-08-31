@@ -1,33 +1,59 @@
+<div align="center">
+
+<img src="https://komarev.com/ghpv/1m7i1/?label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile views" />
+
 # Hi, I'm Kritish Dhital 👋
 
-I'm a software engineer from Nepal building practical AI-powered products and reliable web systems. I enjoy taking ideas beyond the prototype stage—connecting data, APIs, models, and user-facing applications into tools people can depend on.
+**Software Engineer — Kathmandu, Nepal**
 
-## 🛠️ Core Tech Stack
+I build AI-powered products and reliable full-stack systems — from data models and APIs to LLM-driven applications that ship to production.
 
-**Frontend**  
-TypeScript · React · Next.js · Tailwind CSS
+</div>
 
-**Backend & APIs**  
-Python · FastAPI · Node.js · REST APIs · WebSockets
+---
 
-**Databases & Background Jobs**  
-PostgreSQL · Prisma · Redis · Celery
+## 🛠️ Tech Stack
 
-**AI Engineering**  
-PyTorch · Transformers · LangChain · LangGraph · RAG · Vector Search · LLM APIs
+| | |
+|---|---|
+| **Frontend** | TypeScript · React · Next.js · Tailwind CSS |
+| **Backend** | Python · FastAPI · Node.js · REST · WebSockets |
+| **Databases** | PostgreSQL · Prisma · Redis · Celery |
+| **AI / ML** | PyTorch · Transformers · LangChain · LangGraph · RAG · Vector Search |
+| **Infra** | Docker · GitHub Actions · CI/CD · Vercel · Monitoring |
 
-**Infrastructure & Delivery**  
-Docker · Git · GitHub · Vercel · CI/CD · Monitoring
+---
 
-## 🌱 What I’m Focused On
+## 🚀 Featured Projects
 
-- Building reliable full-stack products with TypeScript and Python
-- Designing APIs, data models, and scalable backend workflows
+| Project | What it does | Tech |
+|---|---|---|
+| [Cross-Domain Unsupervised Anomaly Detection](https://github.com/KritishX/cross-domain-unsupervised-multiple-objects-anomaly-detection) | Detects multiple object anomalies across domains without labels | Python · PyTorch |
+| [Self-Parking Car Simulator](https://github.com/KritishX/Self-parking-Car-Simulator-using-Q-learning) | Reinforcement learning agent that learns parking via Q-learning | Python · RL |
+| [Crack Analysis using AI](https://github.com/KritishX/Crack-Analysis-using-AI) | Computer-vision pipeline for structural crack detection | Python · CV |
+| [TTS Training](https://github.com/KritishX/TTS-Training) | Text-to-speech model training pipeline | Python · ML |
+| [Heart Disease Prediction](https://github.com/KritishX/Heart-disease-prediction-using-ML) | Classical ML on clinical features with LR & Random Forest | Python · scikit-learn |
+| [PetClinic Management System](https://github.com/KritishX/Petclinic-AnimallHospitalManagementSystem) | Full-stack animal hospital management app | JavaScript |
+
+---
+
+## 🌱 Currently
+
+- Building reliable full-stack products with TypeScript & Python
 - Applying LLMs, RAG, and agentic systems to real business problems
-- Improving performance, observability, and deployment reliability
+- Designing APIs and scalable backend workflows
 
-## Connect
+## 📫 Connect
 
-- GitHub: [@KritishX](https://github.com/KritishX)
+[![Email](https://img.shields.io/badge/Email-kritishdhital@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kritishdhital@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/KritishX?label=Follow&style=social)](https://github.com/KritishX)
 
-Feel free to explore my repositories or reach out about interesting software and AI projects.
+---
+
+<div align="center">
+
+![Kritish's GitHub stats](https://github-readme-stats.vercel.app/api?username=KritishX&show_icons=true&theme=default&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KritishX&layout=compact&hide_border=true)
+
+</div>
