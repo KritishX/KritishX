@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=KritishX&color=0e75b6&style=flat" alt="Profile views" />
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=6E7781&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Kritish+Dhital+%F0%9F%91%8B;Software+Engineer+%C2%B7+Kathmandu%2C+Nepal;Building+AI-powered+products+%26+reliable+full-stack+systems;TypeScript+%C2%B7+Python+%C2%B7+LLMs+%C2%B7+RAG" alt="Typing SVG" />
 </a>
@@ -55,29 +53,6 @@
 - 🔭 Building reliable full-stack products with TypeScript & Python
 - 🤖 Applying LLMs, RAG, and agentic systems to real business problems
 - ⚡ Designing APIs and scalable backend workflows
-
----
-
-## 📊 Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats-dusky-six.vercel.app/api?username=KritishX&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Kritish's GitHub stats" />
-<img height="160" src="https://streak-stats.demolab.com?user=KritishX&hide_border=true" alt="GitHub streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats-dusky-six.vercel.app/api/top-langs/?username=KritishX&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy-seven.vercel.app/?username=KritishX&theme=flat&no-frame=true&column=7&margin-w=4" alt="Trophies" />
-
-</div>
 
 ---
 
