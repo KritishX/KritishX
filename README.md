@@ -33,20 +33,6 @@
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-| Project | What it does | Tech |
-|---|---|---|
-| [**Cross-Domain Unsupervised Anomaly Detection**](https://github.com/KritishX/cross-domain-unsupervised-multiple-objects-anomaly-detection) | Detects multiple object anomalies across visual domains — no labels required | Python · PyTorch |
-| [**Self-Parking Car Simulator**](https://github.com/KritishX/Self-parking-Car-Simulator-using-Q-learning) | RL agent that learns parking through tabular Q-learning | Python · RL |
-| [**Crack Analysis using AI**](https://github.com/KritishX/Crack-Analysis-using-AI) | Computer-vision pipeline for structural crack detection | Python · CV |
-| [**TTS Training**](https://github.com/KritishX/TTS-Training) | Training pipeline for text-to-speech models | Python · ML |
-| [**Heart Disease Prediction**](https://github.com/KritishX/Heart-disease-prediction-using-ML) | Clinical classification with Logistic Regression & Random Forest | Python · scikit-learn |
-| [**Portfolio Website**](https://github.com/KritishX/portfolio-website) | Personal portfolio — full-stack AI/ML developer site | TypeScript · React |
-
----
 
 ## 🌱 Currently
 
