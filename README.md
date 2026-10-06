@@ -34,17 +34,17 @@
 </div>
 
 
-## 🌱 Currently
+## Currently
 
-- 🔭 Building reliable full-stack products with TypeScript & Python
-- 🤖 Applying LLMs, RAG, and agentic systems to real business problems
-- ⚡ Designing APIs and scalable backend workflows
+-  Building reliable full-stack products with TypeScript & Python
+-  Applying LLMs, RAG, and agentic systems to real business problems
+-  Designing APIs and scalable backend workflows
 
 ---
 
 <div align="center">
 
-### 📫 Connect
+###  Connect
 
 [![Email](https://img.shields.io/badge/Email-kritishdhital@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kritishdhital@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/KritishX?label=Follow&style=social)](https://github.com/KritishX)
