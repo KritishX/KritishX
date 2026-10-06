@@ -1,18 +1,18 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=6E7781&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Kritish+Dhital+%F0%9F%91%8B;Software+Engineer+%C2%B7+Kathmandu%2C+Nepal;AI-powered+products+%26+full-stack+systems;TypeScript+%C2%B7+Python+%C2%B7+LLMs+%C2%B7+RAG" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=6E7781&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Kritish+Dhital+%F0%9F%91%8B;Software+Engineer+%C2%B7+Kathmandu%2C+Nepal;AI-powered+products+%26+full-stack+systems;node.js+%C2%B7+Python+%C2%B7+LLMs+%C2%B7+RAG" alt="Typing SVG" />
 </a>
 
 ---
 
-**Software Engineer** — I take ideas beyond the prototype stage: connecting data, APIs, models, and user-facing applications into tools people can depend on.
+**AI/ML Developer, Data Engineering** — I take ideas beyond the prototype stage: engineering data, APIs, fine-tuning models, and user-facing applications into tools people can depend on which are actually reliable.
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -36,7 +36,7 @@
 
 ## Currently
 
--  Building reliable full-stack products with TypeScript & Python
+-  Building reliable AI embedded full-stack products using TypeScript, Node.js & Python
 -  Applying LLMs, RAG, and agentic systems to real business problems
 -  Designing APIs and scalable backend workflows
 
